@@ -1,7 +1,7 @@
 PreCog Recruitment Task: Analysis and Classification of ~ 20GB Judicial Data by Development Data Lab.
 
 DIRECTORY STRUCTURE:
-<p>
+<pre>
 |                |--- CaseLoadGraphs<br>
 |                |--- DispositionGraphs<br>
 |---- Analysis --|--- GIFS-representingTrend<br>
@@ -22,7 +22,7 @@ DIRECTORY STRUCTURE:
 |--- Report.pdf
 |
 |--- gifmake.py
-</p>
+</pre>
 
 LIBRARIES REQUIRED: pandas, matplotlib, plotly, seaborn, numpy, geopandas, os, sklearn
 
