@@ -2,12 +2,12 @@ PreCog Recruitment Task: Analysis and Classification of ~ 20GB Judicial Data by 
 
 DIRECTORY STRUCTURE:
 <p>
-|                |--- CaseLoadGraphs
-|                |--- DispositionGraphs
-|---- Analysis --|--- GIFS-representingTrend
-|                |--- GenderBias
-|                |--- PendingCaseGraphs
-|                |--- src (main analysis code)
+|                |--- CaseLoadGraphs<br>
+|                |--- DispositionGraphs<br>
+|---- Analysis --|--- GIFS-representingTrend<br>
+|                |--- GenderBias<br>
+|                |--- PendingCaseGraphs<br>
+|                |--- src (main analysis code)<br>
 |
 |                     
 |              
